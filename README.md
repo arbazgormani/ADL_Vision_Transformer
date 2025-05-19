@@ -17,8 +17,11 @@ This project provides a PyTorch-based training pipeline for classifying CIFAR-10
 ## Project Structure
 
 ├── main.py # Main training script
+
 ├── vision_transformers.py # Contains ViT and CrossViT model implementations
+
 ├── utils.py # Utility functions (logging, transforms)
+
 ├── README.md # Project documentation
 
 
